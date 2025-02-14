@@ -5,9 +5,14 @@
 
 - 👨‍💻 All of my projects are available at [link.com](link.com)
 
-- - 📌 I'm currently living in Porto, Portugal
+- 🧑🏻‍💻 I'm currently studying Web Information Technologies and Systems at ESMAD
 
-- 📄 Know about my experiences [I'm a member of my university's Students Association and I'm a volunteer at ESN Porto](I'm a member of my university's Students Association and I'm a volunteer at ESN Porto)
+- 🧑🏻‍🎓 I'm a member of my university's Students Association
+
+- 💼 I'm a volunteer at ESN Porto
+
+- 📍 I'm currently living in Porto, Portugal
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
