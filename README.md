@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Francisco!</h1>
-<h3 align="center">A passionate Web Information Technologies and Systems student from Porto, Portugal</h3>
+<h3 align="center">A passionate Web Information Technologies and Systems student from Portugal</h3>
 
 - 🌱 I’m currently learning **vue & tailwind css**
 
 - 👨‍💻 All of my projects are available at [link.com](link.com)
+
+- - 📌 I'm currently living in Porto, Portugal
 
 - 📄 Know about my experiences [I'm a member of my university's Students Association and I'm a volunteer at ESN Porto](I'm a member of my university's Students Association and I'm a volunteer at ESN Porto)
 
