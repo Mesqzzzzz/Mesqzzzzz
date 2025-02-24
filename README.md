@@ -7,7 +7,7 @@
 
 - 🧑🏻‍💻 I'm currently studying **Web Information Technologies and Systems** at **ESMAD**
 
-- 🧑🏻‍🎓 I'm a member of my university's **Students Association**
+- 🧑🏻‍🎓 I'm a member of **AEESMADPP**, my university's Students Association
 
 - 💼 I'm a volunteer at **ESN Porto**
 
