@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **vue & tailwind css**
 
-- 👨‍💻 All of my projects are available at [link.com](link.com)
+- 👨‍💻 All of my projects are available at [my website](franciscomesquita.pt)
 
 - 🧑🏻‍💻 I'm currently studying **Web Information Technologies and Systems** at **ESMAD**
 
