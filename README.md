@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francisco!</h1>
 <h3 align="center">A second year Web Information Technologies and Systems student from Portugal</h3>
 
-- 🌱 I’m currently learning **vue & tailwind css**
+- 🌱 I’m currently learning **vue.js & tailwind css**
 
 - 🧑🏻‍💻 I'm studying **Web Information Technologies and Systems** at **ESMAD**
 
