@@ -9,7 +9,7 @@
 
 - 💼 I'm a volunteer at **ESN Porto**
 
-- 📍 I'm currently living in **Porto, Portugal**
+- 📍 I'm currently living in **Vila do Conde, Porto, Portugal**
 
 
 
