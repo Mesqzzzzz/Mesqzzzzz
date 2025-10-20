@@ -7,8 +7,6 @@
 
 - 🧑🏻‍🎓 I'm a member of **AEESMADPP**, my university's Students Association
 
-- 💼 I'm a volunteer at **ESN Porto**
-
 - 📍 I'm currently living in **Vila do Conde, Porto, Portugal**
 
 
