@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Francisco!</h1>
 <h3 align="center">A second year Web Information Technologies and Systems student from Portugal</h3>
 
-- 🌱 I’m currently learning **vue.js & tailwind css**
+- 🧑🏻‍💻 Studying **Web Information Technologies and Systems** at **ESMAD**
 
-- 🧑🏻‍💻 I'm studying **Web Information Technologies and Systems** at **ESMAD**
+- 🧑🏻‍🎓 Member of **AEESMADPP**, my university's Students Association
 
-- 🧑🏻‍🎓 I'm a member of **AEESMADPP**, my university's Students Association
-
-- 📍 I'm currently living in **Vila do Conde, Porto, Portugal**
+- 📍 Currently living in **Vila do Conde, Porto, Portugal**
 
 
 
