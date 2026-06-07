@@ -3,8 +3,6 @@
 
 - 🧑🏻‍💻 Studying **Web Information Technologies and Systems** at **ESMAD**
 
-- 🧑🏻‍🎓 Member of **AEESMADPP**, my university's Students Association
-
 - 📍 Currently living in **Vila do Conde, Porto, Portugal**
 
 
